@@ -30,6 +30,9 @@ def consolidate_cart(cart)
         :count => 1
       }
       new_cart << new_cart_items
+    end 
+    counter += 1 
+    
   end
 
 end

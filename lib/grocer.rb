@@ -18,7 +18,9 @@ def consolidate_cart(cart)
   # change `cart` (i.e. mutate) it. It's easier to return a new thing.
   new_cart = []
   counter = 0 
+  while counter < cart.length
   
+  end
 
 end
 

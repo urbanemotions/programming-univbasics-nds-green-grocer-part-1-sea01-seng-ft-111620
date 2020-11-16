@@ -19,7 +19,7 @@ def consolidate_cart(cart)
   new_cart = []
   counter = 0 
   while counter < cart.length
-    new_cart_items = 
+    new_cart_items = find_item_by_name_in_collection
   end
 
 end

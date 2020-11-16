@@ -32,9 +32,8 @@ def consolidate_cart(cart)
       new_cart << new_cart_items
     end 
     counter += 1 
-    
   end
-
+  new_cart
 end
 
 
